@@ -1,1 +1,1 @@
-This is a strong chess engine written fully in the C programming language
+This is a competent chess engine written in C++
